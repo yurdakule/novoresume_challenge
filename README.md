@@ -1,4 +1,5 @@
 # Novorésumé Challenge
+### fork changes
 
 Should you accept the challenge, we want you to create a mini e-commerce web application based on the provided mock-ups. You can find the mock-ups in the **mockups** folder, and the image assets in **frontend/public/images**.
 
